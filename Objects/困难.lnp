@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Source.obj" 
+TO ".\Objects\위켜" 
+PRINT(".\Listings\위켜.m51") RAMSIZE(256) 
